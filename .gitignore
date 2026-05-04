@@ -40,3 +40,6 @@ GROUPE_*/
 *.bak
 *.swp
 *~
+
+node_modules
+.env
